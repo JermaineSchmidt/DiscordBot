@@ -1,4 +1,4 @@
-# Discord Bot By Jermaine
+# Discord Bot
 
 A simple Discord bot created using Python and the `discord.py` library. This bot includes several commands to interact with users, play music, and more.
 
@@ -23,5 +23,5 @@ A simple Discord bot created using Python and the `discord.py` library. This bot
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/JermaineSchmidt/discordbot.git
+   git clone https://github.com/yourusername/discord-bot.git
    cd discord-bot
