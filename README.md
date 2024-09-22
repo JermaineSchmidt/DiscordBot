@@ -23,5 +23,5 @@ A simple Discord bot created using Python and the `discord.py` library. This bot
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/yourusername/discord-bot.git
+   git clone https://github.com/JermaineSchmidt/discordbot.git
    cd discord-bot
